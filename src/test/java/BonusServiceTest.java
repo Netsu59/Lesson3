@@ -1,4 +1,4 @@
-import Services.BonusService;
+import services.BonusService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
